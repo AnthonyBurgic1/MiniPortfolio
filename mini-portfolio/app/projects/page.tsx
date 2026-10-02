@@ -1,20 +1,20 @@
 const projects = [
     {
-        title: "Elmvale Garden Clun",
+        title: "Elmvale Garden Club",
         image: "/elmvalegardenclub.png",
         technologies: "ASP.NET Core • C# • SQL • Bootstrap",
         description:
             "this website I help design it as a group project in my second year of my program (Interactive Media Web Design)",
     },
     {
-        title: "The Smoothie Machine",
+        title: "XR Emerging Technologies Project",
         image: "/XRTECH project1.png",
         technologies: "HTML • CSS • JavaScript",
         description:
             "I built a spider-Mech in my XR emerging tech technologies class last semester. This is probably one of my most favourite projects they ever worked on!",
     },
     {
-        title: "Next.js Portfolio",
+        title: "Exp Web-Design (Colors)",
         image: "/exp.png",
         technologies: "React • Next.js • TypeScript",
         description:
