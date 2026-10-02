@@ -24,7 +24,7 @@ export default function About() {
                 <div className="profile-container">
 
                     <img
-                        src="/profile.jpg"
+                        src="/myfacepic.JPG"
                         alt="Anthony Burgic"
                         className="profile-image"
                     />
