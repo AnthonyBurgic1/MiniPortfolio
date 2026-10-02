@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="AB portfolio logo">
+  <rect width="100" height="100" rx="20" fill="#080b10"/>
+  <path d="M24 70 38 30h8l14 40h-9l-3-10H36l-3 10h-9Zm15-18h7l-3.5-12L39 52Z" fill="#54e0c1"/>
+  <path d="M62 30h14c8 0 13 4 13 10 0 4-2 7-5 8 4 1 7 4 7 9 0 8-6 13-15 13H62V30Zm8 7v8h5c3 0 5-1 5-4 0-3-2-4-5-4h-5Zm0 15v11h6c4 0 7-2 7-6s-3-5-7-5h-6Z" fill="#ffffff"/>
+</svg>
