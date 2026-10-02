@@ -1,24 +1,24 @@
 const projects = [
     {
-        title: "Local Business Directory",
-        image: "/project1.jpg",
+        title: "Elmvale Garden Clun",
+        image: "/elmvalegardenclub.png",
         technologies: "ASP.NET Core • C# • SQL • Bootstrap",
         description:
-            "A web application designed to help users discover local businesses. The project includes authentication, database integration, CRUD functionality, and responsive styling.",
+            "this website I help design it as a group project in my second year of my program (Interactive Media Web Design)",
     },
     {
         title: "The Smoothie Machine",
-        image: "/project2.jpg",
+        image: "/XRTECH project1.png",
         technologies: "HTML • CSS • JavaScript",
         description:
-            "A responsive smoothie ordering website featuring product selections, pricing, interactive forms, and a modern user-friendly design.",
+            "I built a spider-Mech in my XR emerging tech technologies class last semester. This is probably one of my most favourite projects they ever worked on!",
     },
     {
         title: "Next.js Portfolio",
-        image: "/project3.jpg",
+        image: "/exp.png",
         technologies: "React • Next.js • TypeScript",
         description:
-            "A modern portfolio application demonstrating Next.js routing, reusable React components, TypeScript, responsive CSS, and professional web design.",
+            "this is a company called EXP, I currently work for this company, It's an infrastructure, environmental company. They also have a lab where they do soil, asphalt, and concrete testing. This company has been in so many major projects all over the GTA.",
     },
 ];
 
