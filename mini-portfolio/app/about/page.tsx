@@ -40,7 +40,7 @@ export default function About() {
 
                     <p>
                         I am a 3 year Interactive Media Web Design student with a strong interest in
-                        web development, digital design. I really enjot learning about new softwares and using
+                        web development, digital design. I really enjoy learning about new softwares and using
                         them to turn ideas into functional applications.
                     </p>
 
