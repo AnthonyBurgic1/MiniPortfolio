@@ -26,59 +26,59 @@ export default function Projects() {
     return (
         <section className="page-section">
 
-            <div className="page-heading">
+        <div className="page-heading">
 
-                <p className="section-label">
-                    MY WORK
-                </p>
+        <p className="section-label">
+            MY WORK
+        </p>
 
-                <h1>
-                    Featured Projects
-                </h1>
+        <h1>
+            Featured Projects
+        </h1>
 
-                <p>
-                    A collection of projects that demonstrate my technical
-                    abilities and creativity.
-                </p>
+        <p>
+            A collection of projects that demonstrate my technical
+            abilities and creativity.
+        </p>
 
-            </div>
+        </div>
 
 
-            <div className="projects-grid">
+        <div className="projects-grid">
 
-                {projects.map((project) => (
+            {projects.map((project) => (
 
-                    <article
-                        className="project-card"
-                        key={project.title}
-                    >
+        <article
+            className="project-card"
+            key={project.title}
+        >
 
-                        <img
-                            src={project.image}
-                            alt={project.title}
-                        />
+        <img
+            src={project.image}
+            alt={project.title}
+        />
 
-                        <div className="project-content">
+        <div className="project-content">
 
-                            <p className="project-technologies">
-                                {project.technologies}
-                            </p>
+        <p className="project-technologies">
+            {project.technologies}
+        </p>
 
-                            <h2>
-                                {project.title}
-                            </h2>
+        <h2>
+            {project.title}
+        </h2>
 
-                            <p>
-                                {project.description}
-                            </p>
+        <p>
+            {project.description}
+        </p>
 
-                        </div>
+        </div>
 
-                    </article>
+        </article>
 
-                ))}
+             ))}
 
-            </div>
+        </div>
 
         </section>
     );
