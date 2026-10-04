@@ -43,52 +43,53 @@ const skills = [
 
 export default function Skills() {
     return (
-        <section className="page-section">
+    
+    <section className="page-section">
 
-            <div className="page-heading">
+    <div className="page-heading">
 
-                <p className="section-label">
-                    MY TOOLKIT
-                </p>
+    <p className="section-label">
+        MY TOOLKIT
+    </p>
 
-                <h1>
-                    Skills & Technologies
-                </h1>
+    <h1>
+        Skills & Technologies
+    </h1>
 
-                <p>
-                    Here are some of the technologies and concepts I have developed and learned with
-                    experience throughout my years of schooling and projects.
-                </p>
+    <p>
+        Here are some of the technologies and concepts I have developed and learned with
+        experience throughout my years of schooling and projects.
+    </p>
 
-            </div>
+    </div>
 
 
-            <div className="skills-grid">
+    <div className="skills-grid">
 
-                {skills.map((skill, index) => (
+        {skills.map((skill, index) => (
 
-                    <div
-                        className="skill-card"
-                        key={skill.name}
-                    >
+    <div
+        className="skill-card"
+        key={skill.name}
+    >
 
-                        <span className="skill-number">
-                            0{index + 1}
-                        </span>
+    <span className="skill-number">
+        0{index + 1}
+    </span>
 
-                        <h2>
-                            {skill.name}
-                        </h2>
+    <h2>
+        {skill.name}
+    </h2>
 
-                        <p>
-                            {skill.description}
-                        </p>
+    <p>
+        {skill.description}
+    </p>
 
-                    </div>
+    </div>
 
-                ))}
+         ))}
 
-            </div>
+        </div>
 
         </section>
     );
