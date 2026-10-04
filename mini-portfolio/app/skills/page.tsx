@@ -56,8 +56,8 @@ export default function Skills() {
                 </h1>
 
                 <p>
-                    Some of the technologies and concepts I have developed
-                    experience with throughout my education and projects.
+                    Here are some of the technologies and concepts I have developed and learned with
+                    experience throughout my years of schooling and projects.
                 </p>
 
             </div>

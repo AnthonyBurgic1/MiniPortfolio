@@ -47,7 +47,7 @@ export default function Contact() {
             <div className="page-heading">
 
                 <p className="section-label">
-                    CONTACT
+                    CONTACT ME
                 </p>
 
                 <h1>
@@ -55,8 +55,8 @@ export default function Contact() {
                 </h1>
 
                 <p>
-                    Fill out the form below to send me your contact
-                    information and a short message.
+                    Below fill out the form below to send me your contact
+                    information and provide a short message stating what you want to do and your business.
                 </p>
 
             </div>

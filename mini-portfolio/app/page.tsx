@@ -19,9 +19,9 @@ export default function Home() {
                     </h1>
 
                     <p className="hero-description">
-                        Welcome to my personal portfolio. I am a technology
-                        student passionate about web development, creative
-                        design, and building modern digital experiences.
+                        Welcome to my personal portfolio. I am a 3 Year Interactive Media Web Design 
+                        Student attending at Georgian College in Barrie, Ontario Canada, who is passionate about web development, 
+                        and creating new designs, and building modern digital experiences for users.
                     </p>
 
                     <div className="hero-buttons">
@@ -59,10 +59,10 @@ export default function Home() {
                 </h2>
 
                 <p>
-                    My mission is to continue developing my technical and
+                    My mission is to continue developing my technical skills and
                     creative skills while creating websites and applications
                     that are useful, accessible, visually appealing, and easy
-                    to use. I want to combine technology and creativity to
+                    to use. I would like to combine technology and creativity to
                     solve problems and create experiences that people enjoy.
                 </p>
 
@@ -76,16 +76,16 @@ export default function Home() {
                     <span>01</span>
                     <h3>About Me</h3>
                     <p>
-                        Learn more about my background, interests, and goals.
+                        Learn more about me and my background, interests, and goals!
                     </p>
                     <Link href="/about">Explore →</Link>
                 </div>
 
                 <div className="quick-card">
                     <span>02</span>
-                    <h3>Projects</h3>
+                    <h3>My Projects</h3>
                     <p>
-                        Explore some of the websites and applications I have
+                        Here you can explore some of the websites and project that I have
                         created.
                     </p>
                     <Link href="/projects">Explore →</Link>
@@ -93,9 +93,9 @@ export default function Home() {
 
                 <div className="quick-card">
                     <span>03</span>
-                    <h3>Skills</h3>
+                    <h3>My Skills</h3>
                     <p>
-                        See the programming languages and technologies I work
+                        Here are all the programming languages and technologies that I have worked
                         with.
                     </p>
                     <Link href="/skills">Explore →</Link>
