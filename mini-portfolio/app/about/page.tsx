@@ -39,31 +39,30 @@ export default function About() {
                     </h2>
 
                     <p>
-                        I am a technology student with a strong interest in
-                        web development, software development, and digital
-                        design. I enjoy learning new technologies and using
+                        I am a 3 year Interactive Media Web Design student with a strong interest in
+                        web development, digital design. I really enjot learning about new softwares and using
                         them to turn ideas into functional applications.
                     </p>
 
                     <p>
-                        During my studies, I have worked with HTML, CSS,
+                        During my studies at Georgian College, I have worked with HTML, CSS,
                         JavaScript, TypeScript, React, Next.js, C#, ASP.NET
-                        Core, and SQL. These projects have helped me develop
-                        my programming, problem-solving, and design skills.
+                        Core, and SQL. These Code languages have helped me develop
+                        my programming, problem solving, and design skills within my time here, and while doing my assignments and projects.
                     </p>
 
                     <p>
-                        I also enjoy creative projects and automotive design.
-                        My interests outside of programming have helped me
+                        I really enjoy creative projects and automotive design in my free time!
+                        Some of my main interests outside of programming have helped me
                         understand the importance of visual presentation,
                         branding, and user experience.
                     </p>
 
                     <p>
-                        My personal mission is to continue learning and
+                        My main personal mission is to continue learning and
                         challenging myself while creating professional digital
-                        experiences that combine creativity, functionality,
-                        and technology.
+                        experiences with others that can combine creativity, functionality,
+                        and technology all together into one.
                     </p>
 
                 </div>
