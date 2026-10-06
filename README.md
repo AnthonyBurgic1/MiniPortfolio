@@ -83,16 +83,9 @@ Open the local development site:
 
 http://localhost:3000
 
-Live Website
-
-Vercel: PASTE-YOUR-VERCEL-URL-HERE
-
-Replace the placeholder above with the actual Vercel URL after the project has been deployed.
-
 GitHub Repository
 
 GitHub: https://github.com/AnthonyBurgic1/MiniPortfolio
-
 
 Author
 
